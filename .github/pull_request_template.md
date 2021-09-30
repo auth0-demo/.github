@@ -1,8 +1,3 @@
----
-title: "[TFST-XXXX] "
-labels: ["bug"]
----
-
 ## Description
 <details>
 <summary>Section Info</summary>
