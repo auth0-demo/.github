@@ -1,3 +1,8 @@
+---
+title: "[TFST-XXXX] "
+labels: ["bug"]
+---
+
 ## Description
 <details>
 <summary>Section Info</summary>
@@ -5,7 +10,7 @@
 
   > Add a short description about your pull-request here.<br />
   > The description should not be more than a paragraph,<br />
-  > unless the work warants it.<br />
+  > unless the work warrant it.<br />
   </p>
 </details>
 <!-- Enter Information Below This Line -->
