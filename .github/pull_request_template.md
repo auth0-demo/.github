@@ -1,38 +1,72 @@
-## Description
-<details>
-<summary>Section Info</summary>
-  <p>
+## Pull Request template
+Please, go through these steps before you submit a PR.
 
-  > Add a short description about your pull-request here.<br />
-  > The description should not be more than a paragraph,<br />
-  > unless the work warrant it.<br />
-  </p>
-</details>
-<!-- Enter Information Below This Line -->
+## Pre-Pull request checklist 
+
+1. Make sure that your PR is not a duplicate.
+2. If not, then make sure that:
+
+    - [ ] You have done your changes in a separate branch. Branches MUST have descriptive names that start with either the `fix/` or `feature/` prefixes. Good examples are: `fix/signin-issue` or `feature/issue-templates`.
+
+    - [ ] You have a descriptive commit message with a short title (first line).
+
+    - [ ] Tests for the changes have been added (for bug fixes / features) and run (`npm run test`)
+
+    - [ ] Docs have been reviewed and added / updated if needed (for bug fixes / features)
+    
+    - [ ] Build (`npm run build`) was run locally and any changes were pushed
+    
+    - [ ] Lint (`npm run lint`) has passed locally and any fixes were made for failures
+
+3. **After** these steps, you're ready to open a pull request.
+
+    - Your pull request MUST NOT target the `main` branch on this repository. You probably want to target `dev` instead.
+
+    - Give a descriptive title to your PR.
+
+    - Provide a description of your changes by filling in the below template.
+
+    - Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
+
+IMPORTANT: Please review the [contributing doc](../CONTRIBUTING.md) for detailed contributing guidelines.
+
+**PLEASE REMOVE THE ABOVE TASK LIST BEFORE SUBMITTING**
+> Please refer to our contributing documentation for any questions on submitting a pull request, or let us know here if you need any help: https://demo.okta.com
+
+## Pull request type
+> Please try to limit your pull request to one type, submit multiple pull requests if needed.
+
+Please check the type of change your PR introduces:
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Code style update (formatting, renaming)
+- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] Documentation content changes
+- [ ] Other (please describe): 
 
 
-## References
-<details>
-  <summary>Reference Examples</summary>
-  <p>
+## What is the current behavior?
+> Please describe the current behavior that you are modifying. Issues are currently optional for both bug fixes and features.
 
-  > - Jira: https://jira.com/jira-1234
-  > - Slack Context: https://org.slack.com/archives/ABCD/1234
-  > - Ref: https://resource.com/something/we/found/useful
-  > - Related to: https://github.com/owner/repo/pull/123
-  > - Blocked by: https://github.com/owner/repo/pull/123
-  </p>
-</details>
-<!-- Enter Information Below This Line -->
+Issue URL: 
 
 
-## Testing
-<details>
-  <summary>Section Info</summary>
-  <p>
+## What is the new behavior?
+> Please describe the behavior or changes that are being added by this PR.
 
-  > Add bullet points on how to test, if applicable.
-  </p>
-</details>
-<!-- Enter Information Below This Line -->
+-
+-
+-
 
+## Does this introduce a breaking change?
+
+- [ ] Yes
+- [ ] No
+
+> If this introduces a breaking change, please describe the impact and migration path for existing applications below.
+
+
+## Other information
+
+> Any other information that is important to this PR such as screenshots of how the component looks before and after the change.
