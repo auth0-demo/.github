@@ -18,7 +18,7 @@ To obtain access to this organisation there are a few steps to go through. Follo
 
 We are a small team; as such we like to ensure that we can focus on providing you with a best in class experience by automating many tasks that prevent us from developing awesome new features. Please refer to our 
 
-* [Contribution Guide](../CONTRIBUTING.md) for information on our roles and responsbilities and how we expect contributions to occur.
+* [Contribution Guide](https://github.com/auth0-demo/.github/pull/2#discussion_r1282865986) for information on our roles and responsbilities and how we expect contributions to occur.
 
 ## 👩‍💻 Useful resources
 
