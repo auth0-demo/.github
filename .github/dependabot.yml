@@ -1,0 +1,16 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+    reviewers:
+      - "auth0-demo/core-demo-engineering"
+    labels:
+      - "dependencies"
+      - "chore"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+    target-branch: "main"
