@@ -1,11 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: ✨ Feature Request
-    url: https://form.asana.com/?k=ztfbuea-mrKtg78y2aoYkA&d=10114792544943
-    about: Something missing from demo.okta that you'd like to see? Submit a feature or enhancement request
-  - name: 🐛 Bug Report
-    url: https://form.asana.com/?k=kanxmU6S4hsgLwave7nyzQ&d=10114792544943
-    about: Something consistently wrong? Specifically something not behaving the way you'd expect? File a bug report. 
+  - name: ✨ Feature Requests & 🐛 Bug Reports
+    url: https://demo.okta.com
+    about: Something missing from demo.okta that you'd like to see? Submit a feature or enhancement request. Something consistently wrong? Specifically something not behaving the way you'd expect? File a bug report. All through demo.okta.com
   - name: 💬 Connect with #demo-okta
     url: https://okta.slack.com/archives/CE676UAUS
-    about: Feedback and communications are imortant. Come give us some 💙 on Slack.
+    about: Feedback and communications are important. Come give us some 💙 on Slack.

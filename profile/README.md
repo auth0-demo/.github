@@ -12,10 +12,7 @@ Please read the rest of this guide and it's supporting documents so we can help 
 
 ## 🧱 Getting Setup
 
-To obtain access to this organisation there are a few steps to go through
-1. You must link your [GitHub profile with your Okta profile](https://padlock.iam.auth0.net/)
-2. You must [request access to this Organisation](https://okta.service-now.com/lighthouse?id=sc_cat_item&sys_id=dfbfeff8dbd5c5106968027ed3961969)
-3. You must [request to be added to the _dept-all-read_ team](https://okta.service-now.com/lighthouse?id=sc_cat_item&sys_id=dfbfeff8dbd5c5106968027ed3961969&sysparm_category=1ea0ad3cdbad81104ab43ed4e29619f6)
+To obtain access to this organisation there are a few steps to go through. Follow the [guide set out here](https://okta-ep--simpplr.vf.force.com/apex/simpplr__app?u=/site/a145f000000327zAAA/page/a125f0000011HNOAA2)
 
 ## 🌈 Contribution guidelines
 
@@ -25,6 +22,6 @@ We are a small team; as such we like to ensure that we can focus on providing yo
 
 ## 👩‍💻 Useful resources
 
-* [✨ Submit a Feature Request](https://form.asana.com/?k=ztfbuea-mrKtg78y2aoYkA&d=10114792544943)
-* [🐛 File a Bug Report](https://form.asana.com/?k=kanxmU6S4hsgLwave7nyzQ&d=10114792544943)
+* [✨ Submit a Feature Request](https://demo.okta.com)
+* [🐛 File a Bug Report](https://demo.okta.com)
 * [💬 Connect with #demo-okta](https://okta.slack.com/archives/CE676UAUS)
